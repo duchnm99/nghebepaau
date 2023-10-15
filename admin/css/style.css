@@ -1,0 +1,23 @@
+
+.media{
+	padding-bottom: 15px;
+	border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.avata{
+	padding-left: 20px;
+}
+
+.content-footer{
+	margin-top: 20px;
+	color: #9A9A9A;
+}
+
+.card-user > h4{
+	padding: 10px;
+}
+.card-user > img{
+	padding: 20px;
+    margin: 20px 110px 20px 110px;
+}
+
